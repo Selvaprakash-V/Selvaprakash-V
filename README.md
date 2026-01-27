@@ -69,8 +69,17 @@ Role-based coding and assessment platform using React & backend services
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Selvaprakash-V  
-- LinkedIn: *(Add your link here)*
+<p align="center">
+	<a href="https://www.linkedin.com/in/selvaprakashv007/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://leetcode.com/u/SelvaprakashV/" target="_blank">
+		<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+	</a>
+	<a href="https://github.com/Selvaprakash-V" target="_blank">
+		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+	</a>
+</p>
 
 ---
 
