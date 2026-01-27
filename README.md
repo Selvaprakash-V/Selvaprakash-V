@@ -59,6 +59,14 @@ Role-based coding and assessment platform using React & backend services
 
 ---
 
+## 📊 LeetCode Stats
+
+<p align="center">
+	<img src="https://leetcard.jacoblin.cool/SelvaprakashV?theme=dark&border=0&radius=0" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 📈 What I’m Currently Working On
 
 - Strengthening **DSA & Dynamic Programming**
