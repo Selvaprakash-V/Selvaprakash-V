@@ -37,7 +37,7 @@ Data Analysis, Feature Engineering, OOP, DSA, Machine Learning Basics
 ## 🧠 LeetCode Stats
 
 <p align="center">
-	<img src="https://leetcard.jacoblin.cool/SelvaprakashV?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+	<img src="https://leetcard.jacoblin.cool/SelvaprakashV?theme=dark&font=Fira%20Code&ext=activity&border=1&radius=8" alt="LeetCode Stats" />
 </p>
 
 ---
