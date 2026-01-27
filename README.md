@@ -34,6 +34,14 @@ Data Analysis, Feature Engineering, OOP, DSA, Machine Learning Basics
 
 ---
 
+## 🧠 LeetCode Stats
+
+<p align="center">
+	<img src="https://leetcard.jacoblin.cool/SelvaprakashV?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 🔹 **Stock Price Prediction System**  
@@ -58,15 +66,6 @@ Role-based coding and assessment platform using React & backend services
 - 💻 Active contributor to academic and personal AI/DS projects
 
 ---
-
-## 📊 LeetCode Stats
-
-<p align="center">
-	<img src="https://leetcard.jacoblin.cool/SelvaprakashV?theme=dark&border=0&radius=0" alt="LeetCode Stats" />
-</p>
-
----
-
 ## 📈 What I’m Currently Working On
 
 - Strengthening **DSA & Dynamic Programming**
