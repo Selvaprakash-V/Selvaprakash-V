@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Selvaprakash V 👋
 
-<!--
-**Selvaprakash-V/Selvaprakash-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Data Science  
+📊 Data Analyst | Aspiring Data Scientist | AI Enthusiast  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a data-focused engineer who enjoys turning messy, real-world data into meaningful insights and intelligent systems.  
+My work sits at the intersection of **data analysis, machine learning, and software engineering** — with an emphasis on **practical impact**, not toy projects.
+
+I believe in:
+- Clean data > fancy models
+- Explainable insights > black-box predictions
+- Building things that actually solve problems
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Python, C++, Java, SQL  
+
+**Data & ML:**  
+Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI  
+
+**Web & Tools:**  
+React, Tailwind CSS, GitHub, Firebase, Google Apps Script  
+
+**Concepts:**  
+Data Analysis, Feature Engineering, OOP, DSA, Machine Learning Basics  
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Stock Price Prediction System**  
+Machine learning model for trend prediction using historical market data  
+→ Feature engineering, regression models, evaluation metrics  
+
+🔹 **Advanced Housing Price Prediction**  
+End-to-end ML pipeline with strong focus on feature engineering and data cleaning  
+
+🔹 **Inventory Management System**  
+Python-based backend with a modern frontend (React) for real-world usage  
+
+🔹 **JustCode – Coding Platform (In Progress)**  
+Role-based coding and assessment platform using React & backend services  
+
+---
+
+## 🏆 Achievements
+
+- 🎖️ **Google Developer Groups – Solution Challenge Badge**
+- 🧠 Completed **Power BI Data Analytics Course**
+- 💻 Active contributor to academic and personal AI/DS projects
+
+---
+
+## 📈 What I’m Currently Working On
+
+- Strengthening **DSA & Dynamic Programming**
+- Building **production-style data science projects**
+- Improving system design & backend integration
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Selvaprakash-V  
+- LinkedIn: *(Add your link here)*
+
+---
+
+⭐ If you find my work useful, feel free to star the repositories.
