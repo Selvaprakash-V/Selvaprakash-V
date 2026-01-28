@@ -19,7 +19,7 @@ Interested in data science, software engineering, and competitive programming.
 - Database - MySQL | MongoDB
 - Data Science & Analysis Libraries - Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn
 - Data Visualization - Matplotlib | Seaborn | Power BI
-- Tools - VSCode | Canva | Excel | PowerPoint | Jupyter Notebook | Power BI | GitHub | Docker | IntelliJ
+- Tools - VSCode | Canva | Excel | PowerPoint | Jupyter Notebook | Power BI | GitHub 
 
 ---
 
