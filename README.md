@@ -7,9 +7,15 @@ Interested in data science, software engineering, and competitive programming.
 
 ## 🛠 Tech Stack
 
-- Languages: Python, C++, Java, SQL
-- Data / ML: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI
-- Web / Backend: React, Tailwind CSS, Firebase, basic REST APIs
+<p align="center">
+	<img
+		src="https://skillicons.dev/icons?i=python,cpp,java,js,react,tailwind,firebase,git,github,vscode&theme=dark"
+		alt="Tech Stack Icons"
+	/>
+</p>
+
+- Data / ML tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI
+- Also comfortable with building basic REST APIs
 
 ---
 
