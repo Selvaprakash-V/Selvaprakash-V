@@ -9,13 +9,17 @@ Interested in data science, software engineering, and competitive programming.
 
 <p align="center">
 	<img
-		src="https://skillicons.dev/icons?i=python,cpp,java,js,react,tailwind,firebase,git,github,vscode&theme=dark"
+		src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,mysql,mongodb,docker,git,github,vscode&theme=dark"
 		alt="Tech Stack Icons"
 	/>
 </p>
 
-- Data / ML tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI
-- Also comfortable with building basic REST APIs
+- Programming - C | Java | Python
+- Web Technologies - HTML | CSS | JavaScript | React
+- Database - MySQL | MongoDB
+- Data Science & Analysis Libraries - Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn
+- Data Visualization - Matplotlib | Seaborn | Power BI
+- Tools - VSCode | Canva | Excel | PowerPoint | Jupyter Notebook | Power BI | GitHub | Docker | IntelliJ
 
 ---
 
