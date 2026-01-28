@@ -5,7 +5,7 @@ Interested in data science, software engineering, and competitive programming.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
 	<img
@@ -23,7 +23,7 @@ Interested in data science, software engineering, and competitive programming.
 
 ---
 
-## 🧠 Competitive Programming
+## Competitive Programming
 
 <p align="center">
 	<img src="https://leetcard.jacoblin.cool/SelvaprakashV?theme=dark&font=Fira%20Code&ext=activity&border=1&radius=8" alt="LeetCode Stats" />
@@ -31,7 +31,7 @@ Interested in data science, software engineering, and competitive programming.
 
 ---
 
-## 🧰 IDEs & Tools
+## IDEs & Tools
 
 <p align="center">
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -42,7 +42,7 @@ Interested in data science, software engineering, and competitive programming.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
 	<a href="https://github.com/Selvaprakash-V" target="_blank">
