@@ -1,6 +1,6 @@
 # Hi, I'm Selvaprakash V
 
-B.Tech in Artificial Intelligence and Data Science.  
+B.Tech in Artificial Intelligence and Data Science.   
 Interested in data science, software engineering, and competitive programming.
 
 ---
