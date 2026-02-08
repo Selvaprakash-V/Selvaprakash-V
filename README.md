@@ -2,7 +2,7 @@
 
 B.Tech in Artificial Intelligence and Data Science.   
 Interested in data science, software engineering, and competitive programming.
-
+ 
 ---
 
 ## Tech Stack
