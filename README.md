@@ -57,5 +57,5 @@ Interested in data science, software engineering, and competitive programming.
 	<a href="https://selvaprakash.tech" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 	</a>
-	
+	 
 </p>
