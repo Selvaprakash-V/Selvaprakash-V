@@ -23,6 +23,17 @@ Interested in data science, software engineering, and competitive programming.
 
 ---
 
+## GitHub Contributions
+
+<p align="center">
+	<img
+		src="https://github-readme-activity-graph.vercel.app/graph?username=Selvaprakash-V&theme=github-dark&area=true&hide_border=true"
+		alt="Selvaprakash V's GitHub Activity Graph"
+	/>
+</p>
+
+---
+
 ## Competitive Programming
 
 <p align="center">
