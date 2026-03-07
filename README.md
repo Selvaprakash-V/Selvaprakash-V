@@ -36,29 +36,29 @@ Interested in data science, software engineering, and competitive programming.
 
 <p align="center">
 	<img
-		src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Selvaprakash-V&theme=github_dark"
+		src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Selvaprakash-V&theme=tokyonight"
 		alt="Selvaprakash V GitHub Profile Summary"
 	/>
 </p>
 
-<p align="center">
+<p align="left">
 	<img
-		src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Selvaprakash-V&theme=github_dark"
+		src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Selvaprakash-V&theme=tokyonight"
 		alt="Top Languages by Repo"
 	/>
 	<img
-		src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Selvaprakash-V&theme=github_dark"
+		src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Selvaprakash-V&theme=tokyonight"
 		alt="Top Languages by Commit"
 	/>
 </p>
 
-<p align="center">
+<p align="right">
 	<img
-		src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Selvaprakash-V&theme=github_dark"
+		src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Selvaprakash-V&theme=tokyonight"
 		alt="GitHub Stats"
 	/>
 	<img
-		src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Selvaprakash-V&theme=github_dark&utcOffset=5.5"
+		src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Selvaprakash-V&theme=tokyonight&utcOffset=5.5"
 		alt="Productive Time"
 	/>
 </p>
@@ -69,7 +69,7 @@ Interested in data science, software engineering, and competitive programming.
 
 <p align="center">
 	<img
-		src="https://github-readme-activity-graph.vercel.app/graph?username=Selvaprakash-V&theme=github-dark&area=true&hide_border=true"
+		src="https://github-readme-activity-graph.vercel.app/graph?username=Selvaprakash-V&theme=tokyo-night&area=true&hide_border=true"
 		alt="Selvaprakash V's GitHub Activity Graph"
 	/>
 </p>
