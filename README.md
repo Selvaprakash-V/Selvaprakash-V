@@ -23,6 +23,15 @@ Interested in data science, software engineering, and competitive programming.
 
 ---
 
+## Developer Snapshot
+
+- 🔭 Currently building: data-driven projects combining Python, SQL, and visualization.
+- 📚 Deep-diving into: system design basics and scalable backend patterns.
+- 🎯 2026 goal: contribute to at least 3 impactful open-source data tools.
+- 🧩 Fun fact: I enjoy turning messy real-world datasets into clean, story-driven dashboards.
+
+---
+
 ## GitHub Contributions
 
 <p align="center">
