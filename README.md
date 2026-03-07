@@ -32,36 +32,20 @@ Interested in data science, software engineering, and competitive programming.
 
 ---
 
-## GitHub Dashboard
+## GitHub Highlights
 
 <p align="center">
 	<img
-		src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Selvaprakash-V&theme=github_dark"
-		alt="Selvaprakash V GitHub Profile Summary"
-	/>
-</p>
-
-<p align="center">
-	<img
-		src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Selvaprakash-V&theme=github_dark"
-		alt="Top Languages by Repo"
-	/>
-	<img
-		src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Selvaprakash-V&theme=github_dark"
-		alt="Top Languages by Commit"
-	/>
-</p>
-
-<p align="center">
-	<img
-		src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Selvaprakash-V&theme=github_dark"
+		src="https://github-readme-stats.vercel.app/api?username=Selvaprakash-V&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
 		alt="GitHub Stats"
 	/>
-	<img
-		src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Selvaprakash-V&theme=github_dark&utcOffset=5.5"
-		alt="Productive Time"
-	/>
 </p>
+
+| Focus area | What it represents |
+| ---------- | ------------------- |
+| Consistency | Regular commits on projects in data, web, and backend. |
+| Collaboration | Enjoy working on open-source tools around data and developer productivity. |
+| Exploration | Often trying new stacks and patterns in small experimental repos. |
 
 ---
 
