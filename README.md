@@ -39,13 +39,18 @@ Interested in data science, software engineering, and competitive programming.
 		src="https://github-readme-stats.vercel.app/api?username=Selvaprakash-V&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
 		alt="GitHub Stats"
 	/>
+	<img
+		src="https://streak-stats.demolab.com?user=Selvaprakash-V&theme=dark&hide_border=true"
+		alt="GitHub Streak"
+	/>
 </p>
 
-| Focus area | What it represents |
-| ---------- | ------------------- |
-| Consistency | Regular commits on projects in data, web, and backend. |
-| Collaboration | Enjoy working on open-source tools around data and developer productivity. |
-| Exploration | Often trying new stacks and patterns in small experimental repos. |
+<p align="center">
+	<img
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvaprakash-V&layout=compact&theme=github_dark&hide_border=true"
+		alt="Top Languages"
+	/>
+</p>
 
 ---
 
