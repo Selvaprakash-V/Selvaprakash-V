@@ -35,21 +35,13 @@ Interested in data science, software engineering, and competitive programming.
 ## GitHub Highlights
 
 <p align="center">
-	<img
-		src="https://github-readme-stats.vercel.app/api?username=Selvaprakash-V&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-		alt="GitHub Stats"
-	/>
-	<img
-		src="https://streak-stats.demolab.com?user=Selvaprakash-V&theme=dark&hide_border=true"
-		alt="GitHub Streak"
-	/>
+	<img src="https://img.shields.io/github/followers/Selvaprakash-V?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub Followers" />
+	<img src="https://img.shields.io/github/stars/Selvaprakash-V?affiliations=OWNER,ORGANIZATION_MEMBER&label=Profile%20Stars&style=for-the-badge&color=ffd33d&logo=github" alt="GitHub Stars" />
+	<img src="https://img.shields.io/github/repos/Selvaprakash-V?label=Public%20Repos&style=for-the-badge&color=2ea043&logo=github" alt="Public Repos" />
 </p>
 
 <p align="center">
-	<img
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvaprakash-V&layout=compact&theme=github_dark&hide_border=true"
-		alt="Top Languages"
-	/>
+ 	<b>Snapshot:</b> focused on data-driven projects, clean dashboards, and practical AI solutions.
 </p>
 
 ---
