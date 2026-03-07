@@ -32,16 +32,35 @@ Interested in data science, software engineering, and competitive programming.
 
 ---
 
-## GitHub Highlights
+## GitHub Dashboard
 
 <p align="center">
-	<img src="https://img.shields.io/github/followers/Selvaprakash-V?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub Followers" />
-	<img src="https://img.shields.io/github/stars/Selvaprakash-V?affiliations=OWNER,ORGANIZATION_MEMBER&label=Profile%20Stars&style=for-the-badge&color=ffd33d&logo=github" alt="GitHub Stars" />
-	<img src="https://img.shields.io/github/repos/Selvaprakash-V?label=Public%20Repos&style=for-the-badge&color=2ea043&logo=github" alt="Public Repos" />
+	<img
+		src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Selvaprakash-V&theme=github_dark"
+		alt="Selvaprakash V GitHub Profile Summary"
+	/>
 </p>
 
 <p align="center">
- 	<b>Snapshot:</b> focused on data-driven projects, clean dashboards, and practical AI solutions.
+	<img
+		src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Selvaprakash-V&theme=github_dark"
+		alt="Top Languages by Repo"
+	/>
+	<img
+		src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Selvaprakash-V&theme=github_dark"
+		alt="Top Languages by Commit"
+	/>
+</p>
+
+<p align="center">
+	<img
+		src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Selvaprakash-V&theme=github_dark"
+		alt="GitHub Stats"
+	/>
+	<img
+		src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Selvaprakash-V&theme=github_dark&utcOffset=5.5"
+		alt="Productive Time"
+	/>
 </p>
 
 ---
