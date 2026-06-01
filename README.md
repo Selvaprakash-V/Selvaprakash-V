@@ -1,7 +1,16 @@
+<table width="100%"><tr>
+<td>
+
 # Hi, I'm Selvaprakash V
 
-B.Tech in Artificial Intelligence and Data Science.   
+B.Tech in Artificial Intelligence and Data Science.<br/>
 Interested in data science, software engineering, and competitive programming.
+
+</td>
+<td align="right" width="90">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75" alt="Top-right GIF"/>
+</td>
+</tr></table>
  
 ---
 
@@ -41,7 +50,7 @@ Interested in data science, software engineering, and competitive programming.
 	/>
 </p>
 
-<p align="left">
+<p align="center">
 	<img
 		src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Selvaprakash-V&theme=tokyonight"
 		alt="Top Languages by Repo"
@@ -50,9 +59,6 @@ Interested in data science, software engineering, and competitive programming.
 		src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Selvaprakash-V&theme=tokyonight"
 		alt="Top Languages by Commit"
 	/>
-</p>
-
-<p align="right">
 	<img
 		src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Selvaprakash-V&theme=tokyonight"
 		alt="GitHub Stats"
