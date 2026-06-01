@@ -5,7 +5,9 @@
 B.Tech in Artificial Intelligence and Data Science.<br/>
 Interested in data science, software engineering, and competitive programming.
 
----
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" width="500" />
+</p>
 
 ## Tech Stack
 
@@ -21,9 +23,7 @@ Interested in data science, software engineering, and competitive programming.
 - Database - MySQL | MongoDB
 - Data Science & Analysis Libraries - Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn
 - Data Visualization - Matplotlib | Seaborn | Power BI
-- Tools - VSCode | Canva | Excel | PowerPoint | Jupyter Notebook | Power BI | GitHub 
-
----
+Tools - VSCode | Canva | Excel | PowerPoint | Jupyter Notebook | Power BI | GitHub 
 
 ## Developer Snapshot
 
@@ -32,7 +32,9 @@ Interested in data science, software engineering, and competitive programming.
 - 2026 goal: contribute to at least 3 impactful open-source data tools.
 - Fun fact: I enjoy turning messy real-world datasets into clean, story-driven dashboards.
 
----
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Fading Line" width="700" />
+</p>
 
 ## GitHub Dashboard
 
@@ -60,9 +62,12 @@ Interested in data science, software engineering, and competitive programming.
 		src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Selvaprakash-V&theme=tokyonight&utcOffset=5.5"
 		alt="Productive Time"
 	/>
+## GitHub Contributions
 </p>
 
----
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" width="500" />
+</p>
 
 ## GitHub Contributions
 
@@ -71,17 +76,23 @@ Interested in data science, software engineering, and competitive programming.
 		src="https://github-readme-activity-graph.vercel.app/graph?username=Selvaprakash-V&theme=tokyo-night&area=true&hide_border=true"
 		alt="Selvaprakash V's GitHub Activity Graph"
 	/>
+## Competitive Programming
 </p>
 
----
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" width="500" />
+</p>
 
 ## Competitive Programming
 
 <p align="center">
 	<img src="https://leetcard.jacoblin.cool/SelvaprakashV?theme=dark&font=Fira%20Code&ext=activity&border=1&radius=8" alt="LeetCode Stats" />
+## IDEs & Tools
 </p>
 
----
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" width="500" />
+</p>
 
 ## IDEs & Tools
 
