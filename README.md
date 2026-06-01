@@ -1,17 +1,10 @@
-<table width="100%"><tr>
-<td>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" align="right" width="75" alt="Top-right GIF"/>
 
-# Hi, I'm Selvaprakash V
+## Hi, I'm Selvaprakash V
 
 B.Tech in Artificial Intelligence and Data Science.<br/>
 Interested in data science, software engineering, and competitive programming.
 
-</td>
-<td align="right" width="90">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75" alt="Top-right GIF"/>
-</td>
-</tr></table>
- 
 ---
 
 ## Tech Stack
@@ -96,6 +89,7 @@ Interested in data science, software engineering, and competitive programming.
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+	<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
