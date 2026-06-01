@@ -7,8 +7,8 @@ Interested in data science, software engineering, and competitive programming.
 
 <br clear="both" />
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" width="100%" />
+<p align="center" style="clear:both;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" style="display:block;width:100%;clear:both;" />
 </p>
 
 ## Tech Stack
@@ -34,8 +34,8 @@ Interested in data science, software engineering, and competitive programming.
 - 2026 goal: contribute to at least 3 impactful open-source data tools.
 - Fun fact: I enjoy turning messy real-world datasets into clean, story-driven dashboards.
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Fading Line" width="100%" />
+<p align="center" style="clear:both;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Fading Line" style="display:block;width:100%;clear:both;" />
 </p>
 
 ## GitHub Dashboard
@@ -66,8 +66,8 @@ Interested in data science, software engineering, and competitive programming.
     />
 </p>
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" width="100%" />
+<p align="center" style="clear:both;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" style="display:block;width:100%;clear:both;" />
 </p>
 
 ## GitHub Contributions
@@ -79,8 +79,8 @@ Interested in data science, software engineering, and competitive programming.
     />
 </p>
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" width="100%" />
+<p align="center" style="clear:both;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" style="display:block;width:100%;clear:both;" />
 </p>
 
 ## Competitive Programming
@@ -89,8 +89,8 @@ Interested in data science, software engineering, and competitive programming.
     <img src="https://leetcard.jacoblin.cool/SelvaprakashV?theme=dark&font=Fira%20Code&ext=activity&border=1&radius=8" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" width="100%" />
+<p align="center" style="clear:both;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" style="display:block;width:100%;clear:both;" />
 </p>
 
 ## IDEs & Tools
